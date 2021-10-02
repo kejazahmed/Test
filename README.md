@@ -1,3 +1,3 @@
 # Test
-This is my first Test
-This is for learning.
+This is my first Test.
+This is not for learning.
